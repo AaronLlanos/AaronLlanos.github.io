@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name aaronLlanosgithubioApp
+ * @name portfolioApp
  * @description
- * # aaronLlanosgithubioApp
+ * # portfolioApp
  *
  * Main module of the application.
  */
 angular
-  .module('aaronLlanosgithubioApp', [
+  .module('portfolioApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
